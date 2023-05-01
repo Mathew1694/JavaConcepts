@@ -18,7 +18,7 @@ public class OddAndEvenCount {
 		System.out.println(s1);
 		int count = 0;
 		for (int i = 0; i < s1.length(); i++) {
-			s1.charAt(i);
+			char c = s1.charAt(i);
 			count++;
 		}
 		System.out.println(count);
