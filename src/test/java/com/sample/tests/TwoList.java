@@ -11,7 +11,7 @@ import java.util.Set;
 
 public class TwoList {
 
-	public static String a[] = { "Red", "Tea", "Coding", "Hat", "Fence", "Lavender", "Ranch", "cat", "apple",
+	public static String[] a = { "Red", "Tea", "Coding", "Hat", "Fence", "Lavender", "Ranch", "cat", "apple",
 			"Apricot" };
 
 	public static void main(String[] args) {
